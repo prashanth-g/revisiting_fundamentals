@@ -1,16 +1,13 @@
 package com.prashanth.hackerearth.practices;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
 
 public class Anagrams {
 
     public static void main(String[] args) {
         // Get number of test cases
         Scanner scanner = new Scanner(System.in);
-        Map<String, String> stringPair = new HashMap<>();
+        Map<String, String> stringPair = new LinkedHashMap<>();
         // Get test cases count
         int testCases = scanner.nextInt();
         for (int i = 0; i < testCases; i++) {
