@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75cb3999-4865-433d-ac7a-ea51638f98ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prashanth/practices/IdenticalStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prashanth/practices/BricksGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prashanth/practices/BricksGame.java" afterDir="false" />
-    </list>
+    <list default="true" id="75cb3999-4865-433d-ac7a-ea51638f98ad" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -51,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/prashanth/practices/BricksGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -60,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/prashanth/hackerearth/practices/Prime.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prashanth/practices/TruckEnquiry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="145">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -180,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/prashanth/practices/BricksGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/prashanth/hackerearth/practices/IdenticalStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/prashanth/practices/CharactersCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prashanth/practices/TruckEnquiry.java" />
       </list>
     </option>
   </component>
@@ -254,7 +251,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546943677469" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546944791762" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -272,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IdenticalStrings">
+  <component name="RunManager" selected="Application.TruckEnquiry">
     <configuration name="BricksGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.prashanth.practices.BricksGame" />
       <module name="com.prashanth.revisiting_fundamentals.main" />
@@ -315,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfilePicture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prashanth.practices.ProfilePicture" />
+    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prashanth.hackerearth.practices.SevenSegmentDisplay" />
       <module name="com.prashanth.revisiting_fundamentals.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -329,8 +326,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenSegmentDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prashanth.hackerearth.practices.SevenSegmentDisplay" />
+    <configuration name="TruckEnquiry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prashanth.practices.TruckEnquiry" />
       <module name="com.prashanth.revisiting_fundamentals.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -365,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TruckEnquiry" />
         <item itemvalue="Application.IdenticalStrings" />
         <item itemvalue="Application.BricksGame" />
         <item itemvalue="Application.EMazeIn" />
         <item itemvalue="Application.SevenSegmentDisplay" />
-        <item itemvalue="Application.ProfilePicture" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +387,7 @@
     <frame x="0" y="23" width="1440" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,11 +397,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.7651822" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49122807" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49122807" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31443995" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7300945" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.32928476" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32928476" />
@@ -446,6 +443,12 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/prashanth/practices/TruckEnquiry.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -612,6 +615,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prashanth/practices/TruckEnquiry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
