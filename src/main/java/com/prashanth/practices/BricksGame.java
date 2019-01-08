@@ -1,4 +1,4 @@
-package com.prashanth.hackerearth.practices;
+package com.prashanth.practices;
 
 import java.util.Scanner;
 
