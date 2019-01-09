@@ -17,7 +17,7 @@ public class Anagrams {
         }
 
         Set<Map.Entry<String, String>> entries = stringPair.entrySet();
-        entries.stream().forEach((entry) -> {
+        entries.stream().forEach(entry -> {
             findMinRemoval(entry.getKey(), entry.getValue());
         });
     }
